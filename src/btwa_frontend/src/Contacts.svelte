@@ -159,6 +159,7 @@ function applyFilter(data, minDuration, minTime) {
   }
   .table {
     position: relative;
+    border-spacing: 1px .6rem;
   }
   .filters {
     position: absolute;
@@ -185,7 +186,7 @@ function applyFilter(data, minDuration, minTime) {
   .actions {
   }
   .timeline-indicator {
-    margin-top: -.5rem;
+    margin-top: -.6rem;
     position: absolute;
     height: .3rem;
     min-width: 1%;

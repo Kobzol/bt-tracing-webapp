@@ -3,14 +3,14 @@
 }
 .table tr th,
 .table tr td {
-  padding: .6rem;
+  padding: .2rem;
   font-size: .8rem;
 }
 
 .table tr th {
   background: var(--th-background);
   color: var(--th-color);
-  padding: .5rem;
+  padding: .8rem;
   position: sticky;
   top: 0;
   z-index: 2;
